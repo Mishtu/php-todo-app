@@ -1,0 +1,18 @@
+{
+    "name": "mishtu/todo-app",
+    "autoload": {
+        "psr-4": {
+            "Mishtu\\TodoApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mishtu",
+            "email": "dyadyachernomor@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^3.10",
+        "fakerphp/faker": "^1.24"
+    }
+}
